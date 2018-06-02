@@ -1,0 +1,11 @@
+C:\Users\cam\Desktop\c#\restauranter\bin\Debug\netcoreapp2.0\restauranter.deps.json
+C:\Users\cam\Desktop\c#\restauranter\bin\Debug\netcoreapp2.0\restauranter.runtimeconfig.json
+C:\Users\cam\Desktop\c#\restauranter\bin\Debug\netcoreapp2.0\restauranter.runtimeconfig.dev.json
+C:\Users\cam\Desktop\c#\restauranter\bin\Debug\netcoreapp2.0\restauranter.dll
+C:\Users\cam\Desktop\c#\restauranter\bin\Debug\netcoreapp2.0\restauranter.pdb
+C:\Users\cam\Desktop\c#\restauranter\obj\Debug\netcoreapp2.0\restauranter.csproj.CoreCompileInputs.cache
+C:\Users\cam\Desktop\c#\restauranter\obj\Debug\netcoreapp2.0\restauranter.AssemblyInfoInputs.cache
+C:\Users\cam\Desktop\c#\restauranter\obj\Debug\netcoreapp2.0\restauranter.AssemblyInfo.cs
+C:\Users\cam\Desktop\c#\restauranter\obj\Debug\netcoreapp2.0\restauranter.dll
+C:\Users\cam\Desktop\c#\restauranter\obj\Debug\netcoreapp2.0\restauranter.pdb
+C:\Users\cam\Desktop\c#\restauranter\obj\Debug\netcoreapp2.0\restauranter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+<div>
+    <ul>
+        @foreach(var x in ViewBag.allReviews)
+        {
+            <li>
+                <h3>Review for: @x.RestaurantName  @x.Stars star</h3>
+                <p>Reviewer: @x.ReviewerName, @x.VisitDate</p>
+                <p>@x.Review</p>
+            </li>
+        }
+    </ul>
+</div>
